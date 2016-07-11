@@ -21,7 +21,7 @@ where
 
 	text				The plain text to encrypt or cipher text to decrypt
 	
-## How this came to be
+## How this program came to be
 
 Out of boredom, I decided to implement what I learnt in a module of a course I was taking, in C#, and as a quick challenge to myself.
 
