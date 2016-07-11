@@ -8,7 +8,7 @@ This repository contains all the files needed to compile a working version of th
 
 ## Usage
 
-If you use the command, "vigscrypt help", the below will appear.
+If you use the command, "vigscrypt help", the below will appear. Please note that the help command only works when you're not using the program directly, and only by calling it through the command prompt or another program.
 
     This is the help information for the Vigenere Square Cryptor program.
     USAGE:
@@ -24,6 +24,11 @@ If you use the command, "vigscrypt help", the below will appear.
     	passcode			The keyword to encrypt or decrypt the text with
 
 	    text				The plain text to encrypt or cipher text to decrypt
+		
+		Options:
+		    /?				Display this help message
+			/help			Display this help message
+			/about			Display the about information for this program
 	
 ## How this program came to be
 
