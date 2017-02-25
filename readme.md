@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository contains all the files needed to compile a working version of the **vigenere_square_cipher (command-line version)**.
+Hihi! This repository contains all the files needed to compile a working version of the **vigenere_square_cipher (command-line version)**.
 
 - If you're looking for the GUI version, this is not it. You can find that [here](https://github.com/DelKatey/vig.sq.crypt.gui).
 - If you're looking for the DLL version, this is also not it. You can find that [here](https://github.com/DelKatey/vig.sq.crypt.dll).
