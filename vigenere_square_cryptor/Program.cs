@@ -1,11 +1,3 @@
-﻿/*
- * Created by SharpDevelop.
- * User: delkatey
- * Date: 19/11/2015
- * Time: 1:13 PM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
 using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
